@@ -55,16 +55,19 @@ section {
         padding-top: 4rem;
         display: block;
 
-        @include breakpoint-down( $tablet ) {
+        @include breakpoint-down( $desktop ) {
             font-size: 48px;
+            max-width: 900px;
+        }
+
+        @include breakpoint-down( $tablet ) {
+            font-size: 36px;
+            max-width: 700px;
         }
 
         @include breakpoint-down( $mobile ) {
-            font-size: 36px;
-        }
-
-        @include breakpoint-down( $phone ) {
             font-size: 28px;
+            max-width: 600px;
         }
     }
 

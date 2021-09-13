@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;;AACAA,OAAO,CAACC,GAAR,CAAY,gCAAZ","file":"mflp.c3a25ad0.js","sourceRoot":"..","sourcesContent":["import './scss/style.scss';\nconsole.log('NEW FUNKGIN WEB COMING SOON...')"]}
