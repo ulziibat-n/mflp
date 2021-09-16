@@ -85,11 +85,7 @@ section {
         }
 
         @include breakpoint-down( $phone ) {
-            font-size: 18px;
-        }
-
-        @include breakpoint-down( $cellphone ) {
-            font-size: 14px;
+            font-size: 22px;
         }
     }
 
